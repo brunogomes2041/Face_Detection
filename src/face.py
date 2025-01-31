@@ -28,7 +28,7 @@ while True:
         print("Erro ao acessar a câmera.")
         break
 
-    temp_frame_path = "temp_frame.jpg"
+    temp_frame_path = "image/temp_frame.jpg"
     cv2.imwrite(temp_frame_path, frame)
 
     nome = identificar_pessoa(temp_frame_path, caminho_banco)
