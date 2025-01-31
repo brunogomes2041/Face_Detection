@@ -1,2 +1,3 @@
 ultralytics
 deepface
+tf-keras
