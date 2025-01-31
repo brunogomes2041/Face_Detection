@@ -9,7 +9,7 @@ Face Detector é um projeto de visão computacional que torna possível a detec�
 3. Linguagem de programação Python. Site oficial(https://www.python.org/)
 4. Visual Studio Code. Site Oficial(https://code.visualstudio.com/)
 
-### Modo de Uso
+## Modo de Uso
 
 1. Instale o Python e o Vscode no seu computador.
 2. crie uma pasta para alocar o projeto e abra no Vscode.
